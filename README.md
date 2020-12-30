@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-*💬I am a developer working
-*💬I have project experience using #Python, Java, C++. 
-*💬I'm interested in computer vision.
+💬 I am a developer working
+💬 I have project experience using #Python, Java, C++. 
+💬 I'm interested in computer vision.
 
 
 <!--
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?joen00=joen00)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align=center>
 	
