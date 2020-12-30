@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-*💬 I am a developer working
-*💬 I have project experience using #Python, Java, C++. 
-*💬 I'm interested in computer vision.
+*💬I am a developer working
+*💬I have project experience using #Python, Java, C++. 
+*💬I'm interested in computer vision.
 
 
 <!--
