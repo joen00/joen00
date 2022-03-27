@@ -1,20 +1,15 @@
 ### Hi there 👋
 
 💬 I am a developer working
-
 💬 I have project experience using 
 
 ### Python, Java, C++. 
 
-💬 인하대 컴퓨터공학과
-
-💬 삼성SDS하계 알고리즘 특강
-
-💬 현장실습 OKR 웹 페이지 배포
-
-💬 스테이지어스 교육
-
-💬 42서울 라피신
+- 🔭 인하대 컴퓨터공학과
+- 🌱 삼성SDS하계 알고리즘 특강
+- 👯 현장실습 OKR 웹 페이지 배포
+- ⚡ 스테이지어스 교육
+- 😄 42서울 라피신
 
 <!--
 **joen00/joen00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
