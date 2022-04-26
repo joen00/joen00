@@ -10,6 +10,8 @@
 - 👯 현장실습 OKR 웹 페이지 배포
 - ⚡ 스테이지어스 프런트엔드 & 백엔드 서버 교육
 
+<p></p>
+
 
 <!--
 **joen00/joen00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
