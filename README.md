@@ -12,7 +12,9 @@
 - ⚡ 스테이지어스 프런트엔드 & 백엔드 서버 교육
 - 📫 42서울 카뎃
 - 😄 싸피 8기
+- ⚡ 싸피 8기 관통 프로젝트 우수상
 <p></p>
+
 
 <!--
 **joen00/joen00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
