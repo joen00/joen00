@@ -4,7 +4,7 @@
 💬 I have project experience using 
 
 
-### Python, Java, C++. 
+### Java, Vue, javascript, Python,C++. 
 
 - 🔭 인하대 컴퓨터공학과
 - 🌱 삼성SDS하계 알고리즘 특강
